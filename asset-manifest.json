@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sabeeha_react/static/css/main.1824b995.css",
+    "main.js": "/sabeeha_react/static/js/main.0b1e918b.js",
+    "index.html": "/sabeeha_react/index.html",
+    "main.1824b995.css.map": "/sabeeha_react/static/css/main.1824b995.css.map",
+    "main.0b1e918b.js.map": "/sabeeha_react/static/js/main.0b1e918b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1824b995.css",
+    "static/js/main.0b1e918b.js"
+  ]
+}
